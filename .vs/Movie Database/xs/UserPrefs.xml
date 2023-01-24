@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{8806293F-2C41-497A-B1AA-80F8CD09C32E}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Movie_220Database PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Movie Database/Program.cs">
+    <Files>
+      <File FileName="Movie Database/Program.cs" Line="30" Column="44" />
+      <File FileName="Movie Database/Movie.cs" Line="23" Column="35" />
+      <File FileName="Movie Database/Validation.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Movie Database" expanded="True">
+            <Node name="Movie Database" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
